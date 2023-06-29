@@ -12,7 +12,12 @@
 <div align="center">
 
 # The repository showcases and explains my Telegram bot project, which allows users to purchase Zond's beats.
-  <img src="https://media4.giphy.com/media/UYpelo7WbjZQg0dDQY/giphy.gif"></h1>
+
+<h4> Проект "ZondTgBot" на стадии добавление handler'ов и логики но с кодом можно ознакомиться 
+  <a href="ZondBeat_TGBot/ZondBeat_TGBot/Program.cs">тут</a>
+</h4>
+
+  <img src="ZondBeat_TGBot/ZondBeat_TGBot/Program.cs"></h1>
 
 
 </div>
